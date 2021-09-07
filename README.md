@@ -26,6 +26,6 @@ I'm Ajit aka AjCodez, a self-taught programmer and student from India. Currently
 [twitter]: https://twitter.com/Ajit_Singhal_
  <h1> </h1>
 
-<br>
+
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AjCodez&layout=compact&card_width=443&show_icons=true&show_icons=true&theme=calm&hide_border=true"/><br>
