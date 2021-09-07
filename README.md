@@ -15,7 +15,7 @@ I'm Ajit aka AjCodez, a self-taught programmer and student from India. Currently
 
 <h2>Socials</h2>
 
-[<img align="left" alt="Discord: Ajit Singhal#2950" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/discord.svg" />][discord]
+[<img align="left" alt="Discord: Ajit Singhal#2950" width="32px" src="https://cdn.discordapp.com/attachments/843124873601482783/884735932509618176/kisspng-portable-network-graphics-computer-icons-transpare-braingoodgames-5c9d9c5093e378.86170678155.png" />][discord]
 
 [discord]: https://discordapp.com/users/435378124633669633
 <br>
