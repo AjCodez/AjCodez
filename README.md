@@ -23,7 +23,7 @@ I'm Ajit aka AjCodez, a self-taught programmer and student from India. Currently
 [instagram]: https://www.instagram.com/ajit_singhal_/
 [<img align="left" alt="Twitter: Ajit_Singhal_" width="32px" src="https://cdn.discordapp.com/attachments/843124873601482783/884737854524239892/twitter-logo-png-5860.png" />][twitter]
   
-[twitter] https://twitter.com/Ajit_Singhal_
+[twitter] https://twitter.com/Ajit_Singhal_/
 <br>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AjCodez&layout=compact&card_width=443&show_icons=true&show_icons=true&theme=calm&hide_border=true"/><br>
