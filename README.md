@@ -23,7 +23,10 @@ I'm Ajit aka AjCodez, a self-taught programmer and student from GLA University, 
 [instagram]: https://www.instagram.com/ajit_singhal_/
 [<img align="left" alt="Twitter: ajit_singhal_" width="32px" src="https://cdn.discordapp.com/attachments/843124873601482783/884737854524239892/twitter-logo-png-5860.png" />][twitter]
 
-[twitter]: https://twitter.com/Ajit_Singhal_
+[linkedin]: https://twitter.com/Ajit_Singhal_
+[<img align="left" alt="LinkedIN: Ajit Singhal" width="32px" src="https://cdn.discordapp.com/attachments/843124873601482783/938777454640791592/174857.png" />][twitter]
+
+[linkedin]: https://www.linkedin.com/in/ajit-singhal-7b101a204/
 <br>
 <h1> </h1>
 <br>
