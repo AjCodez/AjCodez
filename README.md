@@ -5,6 +5,7 @@
 
 ![](https://komarev.com/ghpvc/?username=AjCodez&label=PROFILE+VIEWS)
 
+
 I'm Ajit aka AjCodez, a self-taught programmer and student from GLA University, India. Currently, I am exploring Web Development projects! and diving into them.
 
 - Wanna Interact? See my Socials linked below and ping me while messaging! 
