@@ -3,7 +3,7 @@
 
 <h2><b> About me! </b><br></h2> 
 
-![](https://komarev.com/ghpvc/?username=AjCodez&label=PROFILE+VIEWS)
+![](https://komarev.com/ghpvc/?username=AjCodez&label=PROFILE+VISITS)
 
 
 I'm Ajit aka AjCodez, a self-taught programmer and student from GLA University, India. Currently, I am exploring Web Development projects! and diving into them.
