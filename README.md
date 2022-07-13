@@ -36,7 +36,7 @@ I'm Ajit aka AjCodez, a self-taught programmer and student from GLA University, 
 <p align="center"> 
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AjCodez&layout=compact&card_width=443&show_icons=true&show_icons=true&theme=calm&hide_border=true"/>
 </p>
-  <p><img align="center" width=495 src="https://github-readme-stats.vercel.app/api/top-langs?username=r-ocke-r&show_icons=true&locale=en&layout=compact" alt="r-ocke-r" /></p>
+  <p><img align="center" width=495 src="https://github-readme-stats.vercel.app/api/top-langs?username=AjCodez&show_icons=true&locale=en&layout=compact" alt="AjCodez" /></p>
 <br>
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AjCodez&show_icons=true&locale=en" alt="AjCodez" /></p>
