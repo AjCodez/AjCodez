@@ -33,4 +33,14 @@ I'm Ajit aka AjCodez, a self-taught programmer and student from GLA University, 
 
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AjCodez&layout=compact&card_width=443&show_icons=true&show_icons=true&theme=calm&hide_border=true"/><br>
+<p align="center"> 
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AjCodez&layout=compact&card_width=443&show_icons=true&show_icons=true&theme=calm&hide_border=true"/>
+</p>
+<br>
+
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AjCodez&show_icons=true&locale=en" alt="AjCodez" /></p>
+
+<br>
+
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AjCodez&" alt="AjCodez" /></p>
+<br>
