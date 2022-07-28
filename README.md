@@ -1,5 +1,6 @@
 <h1>Hey, Guys!<img src="https://c.tenor.com/4P02Cdfd26MAAAAj/baby-yoda-so-cute.gif" width="50"></h1>
 <img align='right' src="https://media.tenor.com/images/b7939d73d32cb3ce5e48a80dd35dc599/tenor.gif" width="230px" height = "230px">
+<img src="https://github.com/AjCodez/AjCodez/blob/main/banner.png">
 
 <h2><b> About me! </b><br></h2> 
 
