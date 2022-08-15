@@ -7,7 +7,7 @@
 ![](https://komarev.com/ghpvc/?username=AjCodez&label=PROFILE+VISITS)
 
 
-I'm Ajit aka AjCodez, a self-taught programmer and student from GLA University, India. Currently, I am exploring Flutter and React projects! and diving into them.
+I'm Ajit aka AjCodez, a self-taught programmer and student from GLA University, India. Currently, I am learning DSA.
 
 - Wanna Interact? See my Socials linked below and ping me while messaging! 
 <h3><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Wanna Know more?
