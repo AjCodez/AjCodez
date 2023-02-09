@@ -37,3 +37,4 @@ I'm Ajit aka AjCodez, a self-taught programmer and student from GLA University, 
 <p> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AjCodez&show_icons=true&theme=radical" alt="AjCodez" /> </p>
 <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=AjCodez&show_icons=true&theme=radical&locale=en" alt="AjCodez" /> </p>
 
+<p> <img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=ajcodez&theme=radical" alt="AjCodez" /> </p>
